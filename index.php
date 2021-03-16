@@ -45,3 +45,4 @@
             $vehicles = get_all_vehicles($sort);
             include('View/vehicle_list.php');
     }
+
